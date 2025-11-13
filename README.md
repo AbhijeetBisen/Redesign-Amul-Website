@@ -51,8 +51,8 @@ The redesigned version provides a **modern, user-friendly, desktop-first, and vi
 
 ---
 
-## Live 
-*()*
+## Live demo
+Deployed with GitHub Pages: https://AbhijeetBisen.github.io/Redesign-Amul-Website
 
 ```bash
 # Folder Structure
